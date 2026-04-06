@@ -16,19 +16,19 @@ const user = {
 // console.log(this);
 
 // function chai(){
-//     let username = "hitesh"
+//     let username = "sumit"
 //     console.log(this.username);
 // }
 
 // chai()
 
 // const chai = function () {
-//     let username = "hitesh"
+//     let username = "sumit"
 //     console.log(this.username);
 // }
 
 const chai =  () => {
-    let username = "hitesh"
+    let username = "sumit"
     console.log(this);
 }
 
